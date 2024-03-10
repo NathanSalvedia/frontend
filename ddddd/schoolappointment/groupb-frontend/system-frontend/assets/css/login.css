@@ -1,0 +1,27 @@
+
+body{
+    font-family: "Open Sans", 'san-serif';
+    background-color: #e9ecef;
+  
+}
+
+.wrapper{
+    background-color: #800020;
+}
+
+.main-text{
+    font-size: 1.063rem;
+}
+
+
+.form-text{
+    font-size: 1.375rem;
+}
+
+.btn{
+    font-size: 22px;
+}
+
+.form-login input{
+    font-size: 22px;
+}
